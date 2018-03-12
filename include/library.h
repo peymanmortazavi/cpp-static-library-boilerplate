@@ -1,0 +1,10 @@
+//
+// Created by Peyman Mortazavi on 3/11/18.
+//
+
+#ifndef CPP_STATIC_LIBRARY_BOILERPLATE_LIBRARY_H
+#define CPP_STATIC_LIBRARY_BOILERPLATE_LIBRARY_H
+
+void hello();
+
+#endif //CPP_STATIC_LIBRARY_BOILERPLATE_LIBRARY_H
